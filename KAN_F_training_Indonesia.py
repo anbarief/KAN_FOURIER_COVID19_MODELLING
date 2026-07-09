@@ -1,3 +1,7 @@
+#AUTHOR: ARIEF ANBIYA
+#EMAIL: ariefanbiya@gmail.com
+#DATE CREATED: 9-7-2026
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
